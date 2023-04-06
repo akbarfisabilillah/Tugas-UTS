@@ -13,6 +13,7 @@ class Donasi_model {
 	{
 		$this->db->query("SELECT * FROM t_donasi");
 	 		return $this->db->resultSet();
+	 		echo 
 	}
 
 	public function getdonasiById($id)

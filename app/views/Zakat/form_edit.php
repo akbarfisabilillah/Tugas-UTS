@@ -14,7 +14,7 @@
                                     </div>
                                     <div class="col-lg-6">
                                         <ul class="breadcome-menu">
-                                            <li><a href="<?=BASEURL;?>/home_index">Home</a> <span class="bread-slash">/</span>
+                                            <li><a href="<?=BASEURL;?>/home_index">home</a> <span class="bread-slash">/</span>
                                             </li>
                                             <li><span class="bread-blod">Zakat</span>
                                             </li>
