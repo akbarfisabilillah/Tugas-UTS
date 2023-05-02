@@ -7,9 +7,17 @@
     
     Website ini tentunya masih memiliki banyak kekurangan dan perlu adanya perbaikan lebih lanjut guna meningkatkan performa sistem informasi ini. Untuk itu, kepada teman-teman, senior-senior sekalian agar dapat berkontribusi dalam mengembangkan website ini.
     
-    # Anggota Kelompok
+  #Framwork menggunakan CI3
+  #Aplikasinya menggunakan : Sublime Text.XMAPP versi 7.3
+  #Bahasa pemograman :PHP.Javacript
+  #Database menggunakan MySQl
+  #Aplikasi pendukung Chrome
+  
+  
+  
+    #AnggotaKelompok
 Anggota kelompok kami antara lain :
 -  Akbar  12110001
 - Taufik Ali Sobani 12110036
 - Nur Faradilla 12110005
-- Burhanuddin 12110081
+- Burhanuddin 1
