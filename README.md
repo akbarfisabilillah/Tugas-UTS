@@ -6,3 +6,8 @@
     Website Zakat ini dirancang dan dikembangkan oleh Mahasiswa . 
     
     Website ini tentunya masih memiliki banyak kekurangan dan perlu adanya perbaikan lebih lanjut guna meningkatkan performa sistem informasi ini. Untuk itu, kepada teman-teman, senior-senior sekalian agar dapat berkontribusi dalam mengembangkan website ini.
+#Anggotakelompok
+- Akbar 12110001
+-Taufik Ali Sobani 12110036
+-Nur Faradilla 12110005
+-Burhanuddin 12110081
