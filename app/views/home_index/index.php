@@ -77,7 +77,7 @@
                                              <img src="<?= BASEURL; ?>/assets_web/img/logo uca.png" alt="">
                                         <h3>Zakat <br> <span></span></h3>
                                         <p>Mari berbagi kebahagiaan <br> terhadap sesama, dan raih jannah-Nya.</p>
-                                            
+                                            kllljlkl
                                      
                                         </p>
                                         <br><br><br><br><br><br><br><br><br><br><br><br>
